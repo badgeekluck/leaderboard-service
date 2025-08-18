@@ -1,0 +1,11 @@
+leaderboard-service
+
+.env
+
+vendor/
+
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
